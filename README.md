@@ -1,4 +1,4 @@
 Notillus
 ========
 
-Tantillus MakeSpace y trabajos derivados
+Este repositorio intenta recopilar los trabajos de MakeSpace alrededor de la Tantillus.
