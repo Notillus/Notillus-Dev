@@ -1,0 +1,1 @@
+Hacer la lista de cuantas piezas de cada hay que imprimir con tiempos estimados de impresion
