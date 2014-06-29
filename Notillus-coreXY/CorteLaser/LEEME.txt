@@ -1,1 +1,6 @@
-¿Cuales son las medidas del chasis de pruebas?
+
+Aqui iran los ficheros de las versiones Corte con laser/ Mecanizada con la CarveWrigth.
+
+El volumen interno de los chasis(descontando los salientes de las pestañas de encaje) es de 25x25cm, con 30cm de altura.
+
+Las carcasas de metracrilato se suelen hacer con metracrilato de 6mm de grosor, aunque el chasis de pruebas de DM es de 7mm.
