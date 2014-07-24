@@ -1,1 +1,10 @@
-Añadir aqui un Marlin configurado
+Aqui tenemos varios firmwares:
+
+-Marlin-tantillus-Original
+Firmware original de la tantillus, no recomendado pues es paleolitico.
+
+-Marlin-tantillus
+ Marlin moderno configurado para la tantillus original.(varilla M6 y taladros en las varillas)
+
+-Marlin-tantillus-moebyus
+ Firmware para la Tantillus modificada mks-moebyus (varilla M5 y barriletes para el hilo spectra)
