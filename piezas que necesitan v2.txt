@@ -1,0 +1,4 @@
+Soporte motores -> más ligeros y cortos.
+Esquinas inferiores -> acortadas para motores.
+Guia de hilo -> más cerca del eje del motor.
+
