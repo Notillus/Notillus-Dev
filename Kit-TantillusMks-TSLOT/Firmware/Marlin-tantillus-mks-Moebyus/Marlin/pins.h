@@ -1120,7 +1120,7 @@
 
 #define LED_PIN            -1
 
-#define FAN_PIN            -1
+#define FAN_PIN            12
  #if FAN_PIN == 12 || FAN_PIN ==13
   #define FAN_SOFT_PWM
 #endif
@@ -1165,7 +1165,7 @@
 
 #ifdef SANGUINOLOLU_V_1_2
 
- #define HEATER_BED_PIN     12 // (bed)
+ #define HEATER_BED_PIN     -1 // (bed)
  #define X_ENABLE_PIN       14
  #define Y_ENABLE_PIN       14
  #define Z_ENABLE_PIN       26
@@ -2804,4 +2804,5 @@ DaveX plan for Teensylu/printrboard-type pinouts (ref teensylu & sprinter) for a
                         _E0_PINS _E1_PINS _E2_PINS             \
                         analogInputToDigitalPin(TEMP_0_PIN), analogInputToDigitalPin(TEMP_1_PIN), analogInputToDigitalPin(TEMP_2_PIN), analogInputToDigitalPin(TEMP_BED_PIN) }
 #endif
+
 

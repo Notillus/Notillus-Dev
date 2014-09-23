@@ -1190,3 +1190,4 @@ const short temptable_70[][2] PROGMEM = {
 #endif
 
 #endif //THERMISTORTABLES_H_
+
