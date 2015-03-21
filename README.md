@@ -1,21 +1,12 @@
 Notillus
 ========
 
-Este repositorio intenta recopilar los trabajos de MakeSpace alrededor de la Tantillus.
+Repositorio de desarrollo de la Notillus, impresora originalmente inspirada en la Tantillus de https://github.com/Intrinsically-Sublime/Tantillus por su tamaño y portabilidad.
 
-Contenido de las carpetas:
+Los archivos de desarrollo de la Tantillus-Mks ahora estan en: 
+https://github.com/darkjavi/Tantillus-MKS
 
-*Kit-TantillusMks-TSLOT:
-Coleccion de STL's para montar la tantillus. dentroo habra una lista detallando cuantas unidades de cada pieza hacen falta.
 
-*Notillus-coreXY:
-Archivos de desarrollo de la Version coreXY para las carcasas TSLOT y cortadas por laser/mecanizadas.
-
-*Tantillus-Original:
-Los archivos del repo de tantillus, contiene los ficheros para la carcasa de metracrilato y para la carcasa impresa. Casi todas mas piezas son de metrica inglesa y las tuercas bailan en los rebajes.
-
-*Tantillus-TSLOT:
-Los archivos del repo TSLOT. Esta version no tiene pieza para el 'Z' de varilla, solo cable.
 
 
 

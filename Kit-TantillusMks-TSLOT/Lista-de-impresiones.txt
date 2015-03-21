@@ -1,7 +1,0 @@
-Hacer la lista de cuantas piezas de cada hay que imprimir con tiempos estimados de impresion
-
-Eje Z:
-	*Endstop_holder
-	*plataforma-cama
-	*soporte_inferior
-	*soporte_superior
