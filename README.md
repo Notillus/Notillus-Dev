@@ -3,6 +3,9 @@ Notillus
 
 Repositorio de desarrollo de la Notillus, impresora originalmente inspirada en la Tantillus de https://github.com/Intrinsically-Sublime/Tantillus por su tamaño y portabilidad.
 
+La Notillus ahora lleva el tanga extruder de coleta http://www.thingiverse.com/thing:742584
+
+
 Los archivos de desarrollo de la Tantillus-Mks ahora estan en: 
 https://github.com/darkjavi/Tantillus-MKS
 
